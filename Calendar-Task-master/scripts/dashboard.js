@@ -37,6 +37,6 @@ function displayInitial() {
   sidebar.style.position = "relative";
   sidebar.style.marginTop = "0";
   sidebar.style.display = "block";
-  sidebar.style.zIndex = "10";
+  sidebar.style.zIndex = "2";
   count = 0;
 }
